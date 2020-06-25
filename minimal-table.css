@@ -1,0 +1,83 @@
+html {
+  font-family: sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(200,200,200);
+  letter-spacing: 1px;
+  font-size: 0.8rem;
+}
+
+td, th {
+  border: 1px solid rgb(190,190,190);
+  padding: 10px 20px;
+}
+
+th {
+  background-color: rgb(235,235,235);
+}
+
+td {
+  text-align: center;
+}
+
+tr:nth-child(2) td {
+  background-color: orange
+}
+
+tr:nth-child(3) td {
+  background-color: #993366
+}
+
+tr:nth-child(4) td {
+  background-color: gray
+}
+
+tr:nth-child(5) td {
+  background-color: #FF0000
+}
+
+tr:nth-child(6) td {
+  background-color: #006699
+}
+
+tr:nth-child(7) td {
+  background-color: #006699
+}
+
+tr:nth-child(8) td {
+  background-color: #996633
+}
+
+tr:nth-child(9) td {
+  background-color: #666666
+}
+
+tr:nth-child(10) td {
+  background-color: #FF0000
+}
+
+tr:nth-child(11) td {
+  background-color: #993366
+}
+
+
+
+
+
+
+
+
+
+
+
+caption {
+  padding: 10px;
+  text-align:center;
+  font-size: 20px
+}
+
+h1 {
+  text-align: center;
+}
